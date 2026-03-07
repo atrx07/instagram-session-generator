@@ -13,6 +13,7 @@ Instagram-session-generator
 │
 ├── devices
 │   └── pixel_7_pro.py
+         (more devices added)
 │
 ├── requirements.txt
 └── README.md
