@@ -115,5 +115,5 @@ The author is not responsible for any misuse of this software.
 
 ## 👨‍💻 Author
 
-**Arppith Andrews**  
-Kerala, India
+**atrx07**  
+insta handle : @atrx07
